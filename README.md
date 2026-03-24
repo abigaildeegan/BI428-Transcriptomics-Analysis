@@ -12,4 +12,4 @@ Publicly available genome-wide association studies (GWAS) for BD and insomnia as
 be utilised to identify gene expression and single nucleotide polymorphisms (SNPs) in the KEAP1-NRF2 pathway, brain tissues and colocalization analysis. 
 
 The workflow of the project is shown below:
-![Caption](https://github.com/abigaildeegan/BI428-Transciptomics-Analysis/blob/main/Thesis%20Datasets%20and%20Methods.png)
+![Caption]([https://github.com/abigaildeegan/BI428-Transcriptomics-Analysis/blob/main/Thesis%20Methods%20Figure%20New.png])
